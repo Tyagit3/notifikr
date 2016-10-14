@@ -151,7 +151,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int common_plus_signin_btn_text_light_focused=0x7f020027;
         public static final int common_plus_signin_btn_text_light_normal=0x7f020028;
         public static final int common_plus_signin_btn_text_light_pressed=0x7f020029;
-        public static final int icon=0x7f02002a;
+        public static final int ic_stat_ic_notification=0x7f02002a;
+        public static final int icon=0x7f02002b;
     }
     public static final class id {
         public static final int adjust_height=0x7f070000;

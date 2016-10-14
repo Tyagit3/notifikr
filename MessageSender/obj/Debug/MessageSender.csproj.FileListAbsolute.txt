@@ -1,0 +1,8 @@
+D:\Projects\GIT\android_workspace\notifikr\MessageSender\bin\Debug\MessageSender.exe.config
+D:\Projects\GIT\android_workspace\notifikr\MessageSender\bin\Debug\MessageSender.exe
+D:\Projects\GIT\android_workspace\notifikr\MessageSender\bin\Debug\MessageSender.pdb
+D:\Projects\GIT\android_workspace\notifikr\MessageSender\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\GIT\android_workspace\notifikr\MessageSender\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\GIT\android_workspace\notifikr\MessageSender\obj\Debug\MessageSender.csprojResolveAssemblyReference.cache
+D:\Projects\GIT\android_workspace\notifikr\MessageSender\obj\Debug\MessageSender.exe
+D:\Projects\GIT\android_workspace\notifikr\MessageSender\obj\Debug\MessageSender.pdb

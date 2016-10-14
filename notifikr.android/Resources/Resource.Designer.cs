@@ -265,7 +265,10 @@ namespace notifikr.android
 			public const int common_plus_signin_btn_text_light_pressed = 2130837545;
 			
 			// aapt resource value: 0x7f02002a
-			public const int Icon = 2130837546;
+			public const int ic_stat_ic_notification = 2130837546;
+			
+			// aapt resource value: 0x7f02002b
+			public const int Icon = 2130837547;
 			
 			static Drawable()
 			{

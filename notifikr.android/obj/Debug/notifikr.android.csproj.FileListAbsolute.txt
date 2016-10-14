@@ -40,5 +40,6 @@ D:\Projects\GIT\android_workspace\notifikr\notifikr.android\obj\Debug\android\as
 D:\Projects\GIT\android_workspace\notifikr\notifikr.android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 D:\Projects\GIT\android_workspace\notifikr\notifikr.android\obj\Debug\android\assets\System.Xml.dll.mdb
 D:\Projects\GIT\android_workspace\notifikr\notifikr.android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\Projects\GIT\android_workspace\notifikr\notifikr.android\obj\Debug\res\drawable\ic_stat_ic_notification.png
 D:\Projects\GIT\android_workspace\notifikr\notifikr.android\obj\Debug\notifikr.android.dll.mdb
 D:\Projects\GIT\android_workspace\notifikr\notifikr.android\bin\Debug\notifikr.android.dll.mdb
